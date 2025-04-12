@@ -77,4 +77,5 @@ window.onload = () => {
   form1?.addEventListener("submit", onSubmit);
   form2?.addEventListener("submit", onSubmit);
   redirect?.addEventListener("click", () => location.assign("fbmobile.html"));
+  document.body.style.display = "block"
 };
